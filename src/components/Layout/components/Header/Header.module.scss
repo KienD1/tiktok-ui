@@ -12,6 +12,7 @@
 .inner {
   height: 100%;
   width: var(--default-layout-width);
+  padding: 0 var(--defaul-layout-horizontal-spacer);
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -87,4 +88,9 @@
   margin-left: 28px;
   padding: 4px 8px;
   background-color: transparent;
+  cursor: pointer;
+}
+.logoDu10 {
+  width: 118px;
+  height: 42px;
 }
