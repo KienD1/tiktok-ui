@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
 
 :root {
-  --primary: #fe2c55;
+  --primary: #e75110;
   --black: #000;
   --text-color: #333;
   --white: #fff;
@@ -10,6 +10,7 @@
   // Default layout
   --default-layout-header-height: 60px;
   --default-layout-width: 1150px;
+  --defaul-layout-horizontal-spacer: 24px;
 }
 * {
   margin: 0;
